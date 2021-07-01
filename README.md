@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I`m **Hasmik Manukyan**, Business Processes Analyst 
+
+## Get in touch 
+- **LinkedIn**: https://www.linkedin.com/feed/
 <!--
 **hasman100/hasman100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
